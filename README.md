@@ -19,6 +19,6 @@ I'm a embedded and electronics engineer
 
 <h3>Contact Information</h3>
 
-![Static Badge](https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white&logoSize=auto&link=mailto%3Amahmudov.timur701%40gmail.com)
+[![Static Badge](https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white&logoSize=auto&link=mailto%3Amahmudov.timur701%40gmail.com)](mailto:mahmudov.timur701@gmail.com)
 
 
