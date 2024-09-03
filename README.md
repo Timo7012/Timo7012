@@ -18,6 +18,7 @@ I'm a embedded and electronics engineer
 ![Static Badge](https://img.shields.io/badge/Linux-yellow?style=for-the-badge&logo=Linux&logoColor=white&logoSize=auto)
 
 <h3>Contact Information</h3>
-<div>![Static Badge](https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white&logoSize=auto&link=mailto%3Amahmudov.timur701%40gmail.com)</div>
+
+![Static Badge](https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white&logoSize=auto&link=mailto%3Amahmudov.timur701%40gmail.com)
 
 
