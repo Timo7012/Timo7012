@@ -1,9 +1,9 @@
 ## 👋 Hello there, my name is Timur
 I'm a embedded and electronics engineer
 
-- 🔬 Primarily i'm creating firmware for MCUs (STM32)
+- 🔬 Primarily i'm creating firmware for MCUs (ARM, STM32)
 - 🔌 Often design electrical circuits and PCBs
-- 🔧 Also do classic engineering work and 3D models
+- 🔧 Also do classic engineering work and creating 3D models
 - 💻 Sometimes do programming
 - 🎓 Graduated from BMSTU | Сurrently studying at HSE
 - 📡 Intrested in IoT and Wireless protocols and interfaces
