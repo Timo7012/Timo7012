@@ -1,16 +1,23 @@
-## Hi there 👋
+## 👋 Hello there, my name is Timur
+I'm a embedded and electronics engineer
 
-<!--
-**Timo7012/Timo7012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔬 Primarily i'm creating firmware for MCUs (STM32)
+- 🔌 Often design electrical circuits and PCBs
+- 🔧 Also do classic engineering work and 3D models
+- 💻 Sometimes do programming
+- 🎓 Graduated from BMSTU | Сurrently studying at HSE
+- 📡 Intrested in IoT and Wireless protocols and interfaces
 
-Here are some ideas to get you started:
+### 
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Static Badge](https://img.shields.io/badge/STM32-blue?style=for-the-badge&logo=stmicroelectronics&logoColor=white&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/PCB-green?style=for-the-badge&logoColor=white&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/IoT-purple?style=for-the-badge&logoColor=white&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/EE-red?style=for-the-badge&logoColor=white&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/WIN-green?style=for-the-badge&logo=windows&logoColor=white&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/Linux-yellow?style=for-the-badge&logo=Linux&logoColor=white&logoSize=auto)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###Contact Information
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mahmudov.timur701@gmail.com)
+
+
