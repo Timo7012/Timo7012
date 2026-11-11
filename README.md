@@ -1,7 +1,8 @@
 ## 👋 Hello there, my name is Timur
-I'm a embedded and electronics engineer
+I'm an embedded systems and electronics engineer
 
-- 🔬 Primarily i'm creating firmware for MCUs (ARM, STM32)
+- 🔬 Primarily i'm creating firmware for MCUs
+- 🖥️ Develop device models for QEMU
 - 🔌 Often design electrical circuits and PCBs
 - 🔧 Also do classic engineering work and creating 3D models
 - 💻 Sometimes do programming
@@ -11,6 +12,8 @@ I'm a embedded and electronics engineer
 ### 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/STM32-blue?style=for-the-badge&logo=stmicroelectronics&logoColor=white&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/GD32-blue?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/QEMU-FF6600?style=for-the-badge&logo=qemu&logoColor=white&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/PCB-green?style=for-the-badge&logoColor=white&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/IoT-purple?style=for-the-badge&logoColor=white&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/EE-red?style=for-the-badge&logoColor=white&logoSize=auto)
